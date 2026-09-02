@@ -1,130 +1,139 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │  BEFORE YOU PUSH — replace these 4 things:                   │
-  │    YOUR_USERNAME   → your GitHub username                    │
-  │    YOUR_NAME       → your display name                       │
-  │    YOUR_LINKEDIN   → your LinkedIn slug (or delete the line) │
-  │    YOUR_EMAIL      → your email                              │
-  └─────────────────────────────────────────────────────────────┘
--->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=70&lines=%24+whoami;%3E+student+%26+full-stack+dev;%3E+javascript+%2F+python+%2F+react;%24+.%2Fbuild_cool_stuff.sh" alt="terminal intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sameer%20Khan&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Android%20%26%20AI%20Developer%20%7C%20CS%20Student&descAlignY=56&descSize=18" width="100%" />
 
-</div>
-
----
-
-### `$ neofetch`
-
-```console
-                            YOUR_NAME@github
-        ▄▄▄▄▄▄▄▄▄▄▄▄▄       ────────────────────────────────
-      ▄█░░░░░░░░░░░░░█▄     Role......: Developer in training
-     █░░░▄▄▄░░░▄▄▄░░░░█     Focus.....: Web apps + Python
-     █░░░███░░░███░░░░█     Languages.: JavaScript · Python
-     █░░░░░░░░░░░░░░░░█     Frontend..: React · Next.js
-     █░░░░░▀▀▀▀▀░░░░░░█     Backend...: Node.js · Express
-      ▀█░░░░░░░░░░░░░█▀     Editor....: VS Code
-        ▀▀▀▀▀▀▀▀▀▀▀▀▀       Status....: open to collaborate
-                            Motto.....: build → break → learn
-```
-
----
-
-### `$ cat stack.txt`
-
-**Currently using**
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-</p>
-
-**Learning right now**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-</p>
-
----
-
-### `$ ls -la ~/projects`
-
-```console
-drwxr-xr-x   project-one/      # one line on what it does
-drwxr-xr-x   project-two/      # one line on what it does
-drwxr-xr-x   project-three/    # one line on what it does
--rw-r--r--   README.md         # you are here
-```
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[project-one](https://github.com/YOUR_USERNAME/project-one)** | Short, concrete description. | `React` `Node` |
-| **[project-two](https://github.com/YOUR_USERNAME/project-two)** | Short, concrete description. | `Python` |
-| **[project-three](https://github.com/YOUR_USERNAME/project-three)** | Short, concrete description. | `Next.js` |
-
----
-
-### `$ cat roadmap.md`
-
-```diff
-+ [x] learn the fundamentals — HTML, CSS, JavaScript
-+ [x] build and ship a first real project
-! [ ] go deep on TypeScript
-! [ ] build something with an API + a database
-- [ ] contribute to an open source project
-```
-
----
-
-<details>
-<summary><code>$ ./random_facts.sh</code></summary>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=620&height=45&lines=Android+%26+AI+Developer;CS+Student+%40+Polaris+School+of+Technology;B.Tech+Data+Science+%40+IIT+Madras;Currently+building+Orvyn+AI" alt="intro" />
 
 <br>
 
-```console
-> favorite editor theme ..... (fill this in)
-> current obsession ......... (fill this in)
-> coffee or tea ............. (fill this in)
-> fun fact .................. (fill this in)
+<a href="https://zesty-begonia-c0fc88.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sameerkhan654kk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+## 👋 About Me
+
+I'm **Sameer Khan** — a developer who likes building things that actually *do* something, not just render nicely. Right now most of my energy goes into **Orvyn AI**, an Android voice assistant that runs both online and fully offline.
+
+- 🎓 Studying **Computer Science** and **Data Science** at the same time (yes, really)
+- 📱 Mostly building **Android apps** with Kotlin + Jetpack Compose
+- 🐍 Comfortable in **Python** and **JavaScript**, currently picking up **Go** and **C**
+- 🔐 Interested in **security** — I spend a fair bit of time in Kali Linux
+- 💬 Always up for collaborating on something ambitious
+
+<br>
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Polaris School of Technology</h3>
+      <p><b>B.Tech, Computer Science</b><br>
+      Bengaluru · 2nd Year</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 IIT Madras</h3>
+      <p><b>B.S. Data Science (Online Degree)</b><br>
+      2nd Year</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20(learning)-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+**Frontend & Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Data & Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+**Tools & Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<br>
+
+## 🚀 Featured Project
+
+### 🤖 [Orvyn AI](https://github.com/SAMEER-KHAN-1/Orvyn-AI)
+
+> An Android voice assistant built to go well past what Siri or Google Assistant will do — it doesn't just answer questions, it operates your phone.
+
+**What it can do**
+
+- 💸 Send money through UPI apps by voice
+- 🍔 Order food through apps like Swiggy and Zomato
+- 📲 Drive real apps end-to-end instead of stopping at a search result
+- 🔒 Run **fully offline** as well as online — so nothing has to leave the device
+
+**Built with**
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54" />
+</p>
+
+> ⚠️ **Status: experimental — not released.** Orvyn AI is a research project and hasn't been security-hardened yet. It's shared for **testing and evaluation only**, and isn't meant for everyday or production use.
+
+<a href="https://github.com/SAMEER-KHAN-1/Orvyn-AI"><img src="https://img.shields.io/badge/View%20on%20GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br>
+<br>
+
+## 🌱 Currently
+
+```
+Learning ......  Go, C, and lower-level systems concepts
+Building ......  Orvyn AI — offline-capable Android assistant
+Exploring .....  security, automation, and on-device AI
+Open to .......  collaborations, internships, and interesting problems
 ```
 
-</details>
+<br>
 
----
-
-### `$ ./connect.sh`
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
+<a href="https://zesty-begonia-c0fc88.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sameerkhan654kk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/SAMEER-KHAN-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
 
-```console
-$ exit
-> thanks for stopping by. connection closed.
-```
+<i>Thanks for stopping by ✨</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
 
 </div>
