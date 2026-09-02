@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Sameer%20Khan&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Android%20%26%20AI%20Developer&descAlignY=56&descSize=18" width="100%" alt="Sameer Khan — Android & AI Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Sameer%20Khan&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Android%20%26%20AI%20Developer&descAlignY=56&descSize=18" width="100%" alt="" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=21&duration=3200&pause=900&color=8B85FF&center=true&vCenter=true&width=640&height=42&lines=Building+Orvyn+AI+%E2%80%94+an+offline+voice+assistant;Kotlin+%7C+Jetpack+Compose+%7C+Python;CS+%40+Polaris+%7C+Data+Science+%40+IIT+Madras" alt="Building Orvyn AI, an offline voice assistant. Kotlin, Jetpack Compose, Python. CS at Polaris, Data Science at IIT Madras." />
 
