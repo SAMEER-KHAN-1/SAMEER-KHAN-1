@@ -123,6 +123,9 @@ Open to      collaborations, internships, hard problems
 
 <div align="center">
 
-<img src="assets/footer-1.jpg" width="25.0448%" alt="" /><a href="https://zesty-begonia-c0fc88.netlify.app/"><img src="assets/footer-2.jpg" width="14.0550%" alt="Portfolio" /></a><a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="assets/footer-3.jpg" width="13.6064%" alt="LinkedIn" /></a><a href="https://github.com/SAMEER-KHAN-1"><img src="assets/footer-4.jpg" width="11.8869%" alt="GitHub" /></a><a href="mailto:sameerkhan654kk@gmail.com"><img src="assets/footer-5.jpg" width="10.1674%" alt="Email" /></a><img src="assets/footer-6.jpg" width="25.1195%" alt="" />
+<a href="https://zesty-begonia-c0fc88.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzREQTBFMCI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxMTAtNC4xMyAyLjA3IDIuMDcgMCAwMTAgNC4xM3ptMS43OCAxMy4wMkgzLjU2VjloMy41NnYxMS40NXpNMjIuMjIgMEgxLjc3Qy43OSAwIDAgLjc3IDAgMS43M3YyMC41NEMwIDIzLjIzLjc5IDI0IDEuNzcgMjRoMjAuNDVjLjk4IDAgMS43OC0uNzcgMS43OC0xLjczVjEuNzNDMjQgLjc3IDIzLjIgMCAyMi4yMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+<a href="https://github.com/SAMEER-KHAN-1"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:sameerkhan654kk@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 </div>
