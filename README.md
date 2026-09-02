@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://zesty-begonia-c0fc88.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzREQTBFMCI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxMTAtNC4xMyAyLjA3IDIuMDcgMCAwMTAgNC4xM3ptMS43OCAxMy4wMkgzLjU2VjloMy41NnYxMS40NXpNMjIuMjIgMEgxLjc3Qy43OSAwIDAgLjc3IDAgMS43M3YyMC41NEMwIDIzLjIzLjc5IDI0IDEuNzcgMjRoMjAuNDVjLjk4IDAgMS43OC0uNzcgMS43OC0xLjczVjEuNzNDMjQgLjc3IDIzLjIgMCAyMi4yMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
 <a href="https://github.com/SAMEER-KHAN-1"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:sameerkhan654kk@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
@@ -67,10 +67,20 @@ Open to      collaborations, internships, hard problems
     </td>
   </tr>
   <tr>
-    <td valign="middle" align="right"><b>Data&nbsp;&amp;&nbsp;Backend</b></td>
+    <td valign="middle" align="right"><b>Backend</b></td>
     <td valign="middle">
+      <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=8CC84B" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=E2E8F0" alt="Express" />
       <img src="https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=4ADE80" alt="MongoDB" />
       <img src="https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" align="right"><b>ML&nbsp;&amp;&nbsp;Data</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/scikit--learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Matplotlib-1E293B?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNERBM0ZGIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAzdjE4aDE4Ii8%2BPHBhdGggZD0iTTYuNSAxNS41bDQtNSAzIDMgNS41LTcuNSIvPjwvc3ZnPg%3D%3D" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-1E293B?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzVBQzhFOCI%2BPHJlY3QgeD0iMiIgeT0iMTUiIHdpZHRoPSI0IiBoZWlnaHQ9IjYiIHJ4PSIuNiIvPjxyZWN0IHg9IjcuMyIgeT0iMTAiIHdpZHRoPSI0IiBoZWlnaHQ9IjExIiByeD0iLjYiLz48cmVjdCB4PSIxMi42IiB5PSI1LjUiIHdpZHRoPSI0IiBoZWlnaHQ9IjE1LjUiIHJ4PSIuNiIvPjxyZWN0IHg9IjE3LjkiIHk9IjEyIiB3aWR0aD0iNCIgaGVpZ2h0PSI5IiByeD0iLjYiLz48L3N2Zz4%3D" alt="Seaborn" />
     </td>
   </tr>
   <tr>
@@ -114,7 +124,7 @@ Open to      collaborations, internships, hard problems
 <div align="center">
 
 <a href="https://zesty-begonia-c0fc88.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzREQTBFMCI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxMTAtNC4xMyAyLjA3IDIuMDcgMCAwMTAgNC4xM3ptMS43OCAxMy4wMkgzLjU2VjloMy41NnYxMS40NXpNMjIuMjIgMEgxLjc3Qy43OSAwIDAgLjc3IDAgMS43M3YyMC41NEMwIDIzLjIzLjc5IDI0IDEuNzcgMjRoMjAuNDVjLjk4IDAgMS43OC0uNzcgMS43OC0xLjczVjEuNzNDMjQgLjc3IDIzLjIgMCAyMi4yMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
 <a href="https://github.com/SAMEER-KHAN-1"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:sameerkhan654kk@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
