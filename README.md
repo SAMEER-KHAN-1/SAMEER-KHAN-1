@@ -130,8 +130,6 @@ Open to      collaborations, internships, hard problems
 
 <br><br>
 
-<i>Thanks for stopping by</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer" width="100%" alt="" />
+<img src="assets/footer.jpg" width="100%" alt="" />
 
 </div>
