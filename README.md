@@ -30,14 +30,16 @@ I'm **Sameer Khan** — a developer who likes building things that actually *do*
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Polaris School of Technology</h3>
+    <td width="50%" align="center" valign="top">
+      <h1>💻</h1>
+      <h3>Polaris School of Technology</h3>
       <p><b>B.Tech, Computer Science</b><br>
       Bengaluru · 2nd Year</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📊 IIT Madras</h3>
-      <p><b>B.S. Data Science (Online Degree)</b><br>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/iit-madras.png" height="72" alt="IIT Madras" />
+      <h3>IIT Madras</h3>
+      <p><b>B.S. Data Science</b> · Online Degree<br>
       2nd Year</p>
     </td>
   </tr>
