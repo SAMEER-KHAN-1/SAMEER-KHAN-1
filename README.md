@@ -123,6 +123,6 @@ Open to      collaborations, internships, hard problems
 
 <div align="center">
 
-<a href="https://zesty-begonia-c0fc88.netlify.app/"><img src="assets/footer-1.jpg" width="24.97%" alt="Portfolio" /></a><a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="assets/footer-2.jpg" width="24.97%" alt="LinkedIn" /></a><a href="https://github.com/SAMEER-KHAN-1"><img src="assets/footer-3.jpg" width="24.97%" alt="GitHub" /></a><a href="mailto:sameerkhan654kk@gmail.com"><img src="assets/footer-4.jpg" width="24.97%" alt="Email" /></a>
+<img src="assets/footer-1.jpg" width="25.0448%" alt="" /><a href="https://zesty-begonia-c0fc88.netlify.app/"><img src="assets/footer-2.jpg" width="14.0550%" alt="Portfolio" /></a><a href="https://www.linkedin.com/in/sameer-khan-605005181/"><img src="assets/footer-3.jpg" width="13.6064%" alt="LinkedIn" /></a><a href="https://github.com/SAMEER-KHAN-1"><img src="assets/footer-4.jpg" width="11.8869%" alt="GitHub" /></a><a href="mailto:sameerkhan654kk@gmail.com"><img src="assets/footer-5.jpg" width="10.1674%" alt="Email" /></a><img src="assets/footer-6.jpg" width="25.1195%" alt="" />
 
 </div>
