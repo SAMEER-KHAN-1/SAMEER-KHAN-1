@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="42" viewBox="0 0 640 42" role="img">
+  <defs>
+    <clipPath id="c0">
+      <rect x="55.3" y="0" width="0" height="42">
+        <animate attributeName="width" begin="0s" dur="13363ms" repeatCount="indefinite" calcMode="linear"
+                 values="0;524.4;524.4;0;0" keyTimes="0;0.1893;0.2941;0.3698;1" />
+      </rect>
+    </clipPath>
+    <clipPath id="c1">
+      <rect x="129.4" y="0" width="0" height="42">
+        <animate attributeName="width" begin="0s" dur="13363ms" repeatCount="indefinite" calcMode="linear"
+                 values="0;0;376.2;376.2;0;0" keyTimes="0;0.3698;0.5056;0.6104;0.6647;1" />
+      </rect>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="89.5" y="0" width="0" height="42">
+        <animate attributeName="width" begin="0s" dur="13363ms" repeatCount="indefinite" calcMode="linear"
+                 values="0;0;456;456;0" keyTimes="0;0.6647;0.8294;0.9341;1" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g fill="#8B85FF" font-size="19" font-weight="600" dominant-baseline="middle"
+     font-family="ui-monospace,SFMono-Regular,&quot;JetBrains Mono&quot;,Menlo,Consolas,&quot;DejaVu Sans Mono&quot;,monospace">
+    <text x="55.3" y="21" textLength="524.4" lengthAdjust="spacing" clip-path="url(#c0)">Building Orvyn AI &#8212; an offline voice assistant</text>
+    <text x="129.4" y="21" textLength="376.2" lengthAdjust="spacing" clip-path="url(#c1)">Kotlin | Jetpack Compose | Python</text>
+    <text x="89.5" y="21" textLength="456" lengthAdjust="spacing" clip-path="url(#c2)">CS @ Polaris | Data Science @ IIT Madras</text>
+  </g>
+
+  <rect x="57.3" y="10" width="3" height="22" rx="1.5" fill="#8B85FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete"
+             begin="0s" dur="1.06s" repeatCount="indefinite" />
+    <animate attributeName="x" begin="0s" dur="13363ms" repeatCount="indefinite" calcMode="linear"
+             values="57.3;581.7;581.7;57.3;131.4;507.6;507.6;131.4;91.5;547.5;547.5;91.5;57.3" keyTimes="0;0.1893;0.2941;0.3638;0.3698;0.5056;0.6104;0.6588;0.6647;0.8294;0.9341;0.994;1" />
+  </rect>
+</svg>
